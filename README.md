@@ -1,4 +1,4 @@
-# Baloon_pop
+# Balloon_pop
 Balloons popper web app game built with html,css and js
 
 
